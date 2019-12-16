@@ -11,7 +11,7 @@ silent! setlocal formatoptions+=j
 " otherwise it's better than nothing.
 setlocal smartindent nocindent
 
-setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
+setlocal tabstop=4 shiftwidth=4 softtabstop=4 expandtab
 setlocal textwidth=79
 
 setlocal suffixesadd=.gleam
